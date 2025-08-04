@@ -58,13 +58,13 @@ function App() {
         <div className="container mx-auto px-6">
           <div className="text-center">
             <div className="text-3xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent mb-4">
-              Sarah
+              Olha
             </div>
             <p className="text-gray-400 mb-6">
               Creating beautiful digital experiences that make a difference.
             </p>
             <div className="text-gray-500 text-sm">
-              © 2025 Sarah Chen. All rights reserved.
+              © 2025 Olha Sotova. All rights reserved.
             </div>
           </div>
         </div>

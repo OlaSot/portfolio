@@ -28,7 +28,7 @@ const About: React.FC = () => {
             
             <div className="space-y-6 text-gray-600 leading-relaxed">
               <p className="text-lg">
-                Hi! I'm Sarah, a passionate creative designer with over 5 years of experience 
+                Hi! I'm Olha, a passionate creative designer with over 3 years of experience 
                 crafting beautiful digital experiences. I believe great design should tell a story, 
                 evoke emotion, and create meaningful connections between brands and their audiences.
               </p>

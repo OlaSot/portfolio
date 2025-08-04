@@ -17,7 +17,7 @@ const testimonials: Testimonial[] = [
     name: "Alex Chen",
     role: "CEO",
     company: "TechStart Inc.",
-    content: "Sarah's creative vision transformed our brand completely. Her attention to detail and ability to translate our ideas into stunning visuals exceeded all expectations. The new identity has significantly improved our market presence.",
+    content: "Olha's creative vision transformed our brand completely. Her attention to detail and ability to translate our ideas into stunning visuals exceeded all expectations. The new identity has significantly improved our market presence.",
     avatar: "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
     rating: 5
   },
@@ -26,7 +26,7 @@ const testimonials: Testimonial[] = [
     name: "Maria Rodriguez",
     role: "Marketing Director",
     company: "Bloom Studios",
-    content: "Working with Sarah was an absolute pleasure. She not only delivered exceptional design work but also provided valuable insights that helped shape our digital strategy. Her collaborative approach made the entire process smooth and enjoyable.",
+    content: "Working with Olha was an absolute pleasure. She not only delivered exceptional design work but also provided valuable insights that helped shape our digital strategy. Her collaborative approach made the entire process smooth and enjoyable.",
     avatar: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
     rating: 5
   },
@@ -35,7 +35,7 @@ const testimonials: Testimonial[] = [
     name: "David Thompson",
     role: "Founder",
     company: "Artisan Coffee Co.",
-    content: "Sarah's brand identity work for our coffee roastery was phenomenal. She captured the essence of our artisanal approach perfectly, creating a visual language that resonates with our customers and stands out in the market.",
+    content: "Olha's brand identity work for our coffee roastery was phenomenal. She captured the essence of our artisanal approach perfectly, creating a visual language that resonates with our customers and stands out in the market.",
     avatar: "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg",
     rating: 5
   }
