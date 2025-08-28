@@ -1,3 +1,70 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  @keyframes terminalText {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  .animate-terminal {
+    overflow: hidden;
+    white-space: nowrap;
+    animation: terminalText 2s steps(40) 1 forwards;
+  }
+
+  @keyframes fadeUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animate-fadeUp {
+    animation: fadeUp 0.8s ease-out both;
+  }
+
+  .delay-300 {
+    animation-delay: 0.3s;
+  }
+
+  @keyframes scan-left {
+    0% {
+      transform: translateY(-100%);
+    }
+    100% {
+      transform: translateY(100%);
+    }
+  }
+
+  @keyframes scan-right {
+    0% {
+      transform: translateY(100%);
+    }
+    100% {
+      transform: translateY(-100%);
+    }
+  }
+
+  .animate-scan-left {
+    animation: scan-left 4s linear infinite;
+  }
+
+  .animate-scan-right {
+    animation: scan-right 4s linear infinite;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
